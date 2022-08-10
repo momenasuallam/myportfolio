@@ -8,6 +8,7 @@ body,
 html {
   height: 100%;
   scroll-behavior: smooth;
+  overflow-x: hidden !important;
 }
 body {
   background: #2a2c39;
